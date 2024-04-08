@@ -1,6 +1,6 @@
  **“Be Aware”** - an educational app designed to teach children about war and prepare them for air raid emergencies in a way that is both informative and easy to grasp. The main character of the app, a brave bird Ollie, guides a child through interactive story lessons and engaging mini-games, and gives practical steps on how to be safe during emergencies.
-**
-Story Behind Project**
+
+**Story Behind Project**
 
 Two years ago, I realised how fragile safety can be. The news of war outbreak in my country woke me up that day. I remember hearing a loud sound of an air raid alarm. I knew I had to seek shelter, but I had no idea where to hide or what to bring with me.
 
